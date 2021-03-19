@@ -1,4 +1,4 @@
-# Wpf-Validation-Error-Template
+# Wpf-Validation-ErrorTemplate
 
 https://stackoverflow.com/questions/7434245/validation-error-style-in-wpf-similar-to-silverlight  
 
